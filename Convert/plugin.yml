@@ -1,0 +1,7 @@
+name: Convert
+
+main: Convert\Main
+version: 1.0.0
+api: 3.0.0
+
+website: vk.com/bedrock_models
